@@ -1,3 +1,3 @@
 # Temperature_Converter
-#Screenshot
+#TemperatureConverter
 ![Uploading image.png…]()
